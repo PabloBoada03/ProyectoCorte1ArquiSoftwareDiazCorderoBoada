@@ -1,4 +1,4 @@
-# 📱 AllLink
+# AllLink
 
 AllLink es una aplicación pensada para **adultos mayores y personas con poca experiencia tecnológica**, que ofrece una **interfaz simplificada** para el uso de dispositivos Android.  
 
@@ -6,7 +6,7 @@ Su objetivo es facilitar el acceso a funciones esenciales (recordatorios de medi
 
 ---
 
-## 📖 Contenido del Repositorio
+## Contenido del Repositorio
 
 - `wiki/` → Contiene la documentación del proyecto (Diseño, Fundamentos, Diagramas UML, etc.).  
 - `alllink/` → Aplicación demo en **Java consola**, que implementa los patrones de diseño planteados en el proyecto.  
@@ -15,9 +15,9 @@ Su objetivo es facilitar el acceso a funciones esenciales (recordatorios de medi
 
 ---
 
-## 🚀 Cómo correr la aplicación demo
+## Cómo correr la aplicación demo
 
-### 🔹 Opción 1: Usando Docker (recomendado)
+### Opción 1: Usando Docker (recomendado)
 
 1. Clonar este repositorio:
    ```bash
@@ -35,7 +35,7 @@ Su objetivo es facilitar el acceso a funciones esenciales (recordatorios de medi
    docker run -it --rm alllink-app
    ```
 
-### 🔹 Opción 2: Usando Maven y Java localmente
+### Opción 2: Usando Maven y Java localmente
 
 1. Asegúrate de tener instalado **Java 17+** y **Maven**.  
 2. Compilar el proyecto:
@@ -51,7 +51,7 @@ La aplicación abrirá un menú en consola donde puedes **registrar usuarios**, 
 
 ---
 
-## 📖 Wiki del Proyecto
+## Wiki del Proyecto
 
 Toda la documentación teórica y técnica del proyecto (Fundamentos de Ingeniería de Software, Patrones de Diseño, UML, Arquitectura, etc.) está disponible en la **Wiki del repositorio**:  
 
@@ -59,7 +59,7 @@ Toda la documentación teórica y técnica del proyecto (Fundamentos de Ingenier
 
 ---
 
-## 👥 Créditos
+## Créditos
 
 Proyecto desarrollado para el curso **Diseño y Arquitectura de Software**:
 
@@ -69,7 +69,7 @@ Proyecto desarrollado para el curso **Diseño y Arquitectura de Software**:
 
 ---
 
-## ✅ Estado del Proyecto
+## Estado del Proyecto
 Este es un **demo de consola** (prototipo académico).  
 En fases posteriores se planea:  
 - Integración real con **Firebase**.  
