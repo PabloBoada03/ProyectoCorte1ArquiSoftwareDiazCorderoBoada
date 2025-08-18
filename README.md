@@ -17,6 +17,15 @@ Su objetivo es facilitar el acceso a funciones esenciales (recordatorios de medi
 
 ## Cómo correr la aplicación demo
 
+### Opción 0: Descargar y correr manualmente
+
+1. Asegúrate de que tu IDE esté configurado con **JDK 17 o superior**.
+2. Descarga la carpeta AllLink_Demo_Consola
+3. Abre tu IDE compatible con java preferido
+4. Selecciona "Abrir un nuevo proyecto"
+5. abre la carpeta que descargaste
+6. ejecuta la clase principal
+
 ### Opción 1: Usando Docker (recomendado)
 
 1. Clonar este repositorio:
