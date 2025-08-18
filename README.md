@@ -73,7 +73,7 @@ Toda la documentación teórica y técnica del proyecto (Fundamentos de Ingenier
 Proyecto desarrollado para el curso **Diseño y Arquitectura de Software**:
 
 - **Ana María** → 20 años, tenista, Desarrollo Frontend (apps móviles y web).  
-- **Isabela** → [Descripción pendiente en wiki].  
+- **Isabela** → 19 años, Apasionada por el diseño y desarrollo de software, bailarina, guitarrista y cantante .  
 - **Pablo** → 22 años, músico (bajo, guitarra, canto) y desarrollador.  
 
 ---
